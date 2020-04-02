@@ -1,2 +1,2 @@
-# image_classifier_project
+# udacity-image-classifier-project
 Udacity AI with python course final project
