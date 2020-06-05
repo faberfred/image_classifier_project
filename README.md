@@ -8,7 +8,7 @@ The objective of this project is to *implement* and *train* an image classifier 
 
 We'll be using [this dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) of 102 flower categories, you can see a few examples below.
 
-<img src="./assets/Flowers.png" width="400" alt="Flowers"/>
+<img src="./assets/Flowers.png" width="700" alt="Flowers"/>
 
 The project is broken down into multiple steps:
 
